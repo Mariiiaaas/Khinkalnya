@@ -53,6 +53,7 @@ h3{
 img {
     max-width: 100%;
     height: auto;
+    margin-bottom: 30px;
 }
 .myButton{
     border-radius: 10px;
